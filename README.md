@@ -1,5 +1,4 @@
-# On the Effects of Regional Spelling
-Conventions in Retrieval Models (SIGIR 2023)
+# On the Effects of Regional Spelling Conventions in Retrieval Models (SIGIR 2023)
 
 One advantage of neural language models is that they are meant to
 generalise well in situations of synonymity i.e. where two words
